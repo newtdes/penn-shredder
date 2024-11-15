@@ -1,4 +1,4 @@
-# CIS 3800 Assignment 2's Project
+# CIS 3800 First Project
 
 ## Overview
 
