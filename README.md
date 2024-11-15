@@ -4,6 +4,8 @@
 
 This repository contains the source files for a C program that manages command execution with a timeout mechanism. Below is a list of the submitted source files along with a brief description of their functionality.
 
+[Update 16th Nov 2024] Cannot believe it is 1 year already from the time I did this project at Penn! This is Project 0 of CIS 3800, the most (99% true) time-consuming CIS course, and also the hardest CIS course (I believe!).
+
 ## Submitted Source Files
 
 1. **penn-shredder.c**: This is the main file of the project.
